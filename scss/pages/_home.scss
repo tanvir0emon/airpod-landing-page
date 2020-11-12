@@ -1,0 +1,126 @@
+.experience {
+    height: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+// Experiance Section end
+
+// Response section
+#response {
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    height: 100%;
+    width: 100%;
+    color: #41096D;
+
+    .order {
+        padding: 5;
+
+    }
+
+    .img-fluid {
+        position: relative;
+    }
+}
+
+
+
+
+.video {
+    height: 70vh;
+
+
+    &__icon {
+
+        padding: 250px 800px;
+        font-size: 110px;
+        color: #8B2FD2;
+
+
+    }
+
+}
+
+
+
+// #pricing {
+//     text-align: center;
+//     font-family: 'Raleway', sans-serif;
+//     color: #41096D;
+
+// }
+
+
+
+// FAQ's
+
+.faq {
+    height: 75vh;
+    position: relative;
+    background-repeat: no-repeat;
+    font-family: 'Raleway', sans-serif;
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+
+}
+
+// pricing
+
+
+#pricing {
+    background: $bg-tertiary;
+    color: $primary;
+    font-family: $font-primary;
+    text-align: center;
+
+    .container {
+        justify-content: center;
+
+
+        &__body {
+            background: white;
+            padding: 25px 30px;
+            border-top: 3px solid $primary;
+            border-radius: 25px;
+
+            a {
+                text-decoration: none;
+            }
+
+            .pricing-btn {
+                padding: 3px 1px;
+            }
+
+
+        }
+    }
+}
+
+// Form & Contact
+
+
+#contact {
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    height: 100%;
+    width: 100%;
+    color: #41096D;
+
+    .order {
+        padding: 5;
+
+    }
+
+    .img-fluid {
+        position: relative;
+    }
+}
+

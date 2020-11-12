@@ -1,0 +1,24 @@
+#cardsection {
+    background: $white;
+    color: $primary;
+    font-family: $font-primary;
+
+    .container {
+
+        margin: auto;
+        justify-content: center;
+        align-items: center;
+        margin-right: 150px;
+
+        &__body {
+            background: white;
+            padding: 25px 30px;
+            border-top: 3px solid $primary;
+            border-radius: 25px;
+
+           
+        }
+        
+    }
+
+}

@@ -1,0 +1,22 @@
+// Footer Section
+
+#footerbox{
+     height:100%;
+     color: white;
+     font-family: $font-primary;
+
+     img{
+         height: 30px;
+         margin-left:80px;
+         margin-right: 5px;
+     }
+
+
+     hr{
+        height:2px;
+        width: 20%;
+        margin: auto;
+        border-width:0;
+        background-color:#8B2FD2;
+     }
+}
